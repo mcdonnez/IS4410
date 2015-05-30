@@ -1,0 +1,38 @@
+body {
+	background-color: #A00B06;
+	padding: 0 30px;
+}
+table tr td {
+	min-width: 30px;
+}
+#binary td {
+	border: 1px solid black;
+	text-align: center;
+}
+.reading {
+	background-color: #c0c0c0;
+	padding: 10px;
+}
+.review {
+	background-color: #838383;
+	padding: 10px;
+}
+.lecture {
+	background-color: #e1e1e1;
+	padding: 10px;
+}
+div {
+	margin-top: 10px;
+	position: relative;
+}
+h2 {
+	margin: 10px 0;
+}
+td {
+	vertical-align: top;
+}
+input {
+	position: absolute;
+	top: 23px;
+	right: 25px;
+}
